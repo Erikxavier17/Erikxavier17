@@ -1,13 +1,15 @@
 <h1 align="center">Oi 👋, Eu sou Erik</h1>
 <h3 align="center">Apaixonado por análise e desenvolvimento de sistemas</h3>
 
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas**
+- 📚 Finalizando Graduação **Análise e Desenvolvimento de Sistemas**
 
-- 🌱 Atualmente estou aprendendo **Power BI Para Business Intelligence e Data Science**
+- 📚 Curso Finalizado Recentemente **Power BI Para Business Intelligence e Data Science**
 
-- 💬 Me pergunte sobre **Power BI,Excel e Modelagem de Dados**
+- 💬 Me pergunte sobre **Power BI, Excel, Modelagem de Dados, SQL, Java, Python, Sharepoint, Project**
 
 - 📫 Você me acha através do e-mail **Erikvictor.xavier@gmail.com**
+
+- 🌱 Aprendendo **Python** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
